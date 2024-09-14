@@ -9,17 +9,17 @@ Say goodbye to endless browsing of recipe websites -
 with our technology, you can just take a pictures and
 discover a whole world of culinary possibilities.
 
-##Key technologies:
-###MediaPipe
+## Key technologies:
+### MediaPipe
 It provides a suite of libraries and tools for you to quickly
 apply machine learning techniques in your applications. You
 can plug these solutions into your applications immediately,
 customize them to your needs, and use them across
 multiple development platforms.
-###RusVectōrēs
+### RusVectōrēs
 A service for exploring semantic relationships
 between words using distributional models
-###Qdrant
+### Qdrant
 Vector data management system. The
 program allows you to create chatbots,
 recommendation systems and other products
